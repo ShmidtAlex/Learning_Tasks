@@ -1,0 +1,21 @@
+{
+  "name": "GAME",
+  "version": "1.0.0",
+  "description": "learning task",
+  "main": "game.js",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "ShmidtAlex",
+  "license": "ISC",
+  "bugs": {},
+  "homepage": "https://github.com/ShmidtAlex"
+}
